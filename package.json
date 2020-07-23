@@ -1,0 +1,19 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "Curso Platzi asincronismo",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yisus17/asincronismojs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yisus17/asincronismojs/issues"
+  },
+  "homepage": "https://github.com/Yisus17/asincronismojs#readme"
+}
