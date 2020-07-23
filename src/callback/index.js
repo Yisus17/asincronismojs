@@ -21,3 +21,5 @@ function printDate(dateNow){ //Esta es nuestra funcion callback que pasaremos po
 }
 
 date(printDate);
+
+

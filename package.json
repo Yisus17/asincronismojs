@@ -4,7 +4,8 @@
   "description": "Curso Platzi asincronismo",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Yisus17/asincronismojs/issues"
   },
-  "homepage": "https://github.com/Yisus17/asincronismojs#readme"
+  "homepage": "https://github.com/Yisus17/asincronismojs#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
